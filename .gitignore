@@ -1,0 +1,5 @@
+.env
+constants.py
+myenv/
+.vscode
+__pycache__/
